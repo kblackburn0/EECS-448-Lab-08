@@ -1,0 +1,39 @@
+body {
+  background-color: azure;
+  text-align: center;
+  font-family: cursive;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-style: inset;
+  border-width: 10px;
+  width: 90%;
+  height: 90%;
+}
+
+h1{
+  font-size: 50pt;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+h3{
+  font-size: 30pt;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+a {
+  padding: 8px;
+  border-radius: 6px;
+  font-size: 20pt;
+  color: LightGrey;
+  background-color: CadetBlue;
+}
+
+a:hover {
+  color: HoneyDew;
+  background-color: DarkSeaGreen;
+}
